@@ -1,0 +1,6 @@
+
+# VSCode stuff
+.vscode/
+
+# Maven stuff
+target/

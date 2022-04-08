@@ -1,0 +1,95 @@
+that video is useless
+How can i install or use JupyterLab? I already have python installed using the Anaconda route on my Windows 10. I kind of like the interface for jupyterLab.Please help. Thanks
+TALK FAST! TALK FAST BRO!!
+Thank you for displaying my repo!
+can you provide us this github link pls
+Very informative video, useful for security folks who don’t know much about dev.
+Thanks for the efforts taken to educate. Highly appreciated 👍
+I appreciate the effort you have put into explaining this so clearly. Kudos
+NIce info thnx!
+It looks like Java is trying to catch up with Scala...17:30 would the compiler scream at you if you do not cover all the sealed interface's permitted subtypes?
+Great video. Thanks for sharing.
+Yes.. Bring java 18 videos bruh
+Could you do a video showing how to do this with Oauth2?
+thanks for the video, I need to do this for a group for our school project but I have literally 0 experience with programming or APIs or anything.
+Quite useful
+How to implement live change reflect when we code?
+Very original, excellent topic, well explained! Thank you.
+Hyvää settiä! Good stuff!
+Can't wait to see it!
+This was a great video! I LOVE IntelliJ for Java stuff, I have the community edition but it feels so much better than anything else I tried out.I don't particularly like Microsoft, but I will use whatever the rest of the team uses, and vscode is really neat for TS.I'm also playing around with Geany for some light text editing, it's super fast and fun to use but I don't think I'll use it with either Java or TS.
+Hey man, thanks for your insights. I'm using Intellij almost exclusively lately; it's a really ergonomic ide, sometimes I get the impression that it guess what I want to do, before I think about it. Their code indexing is also pretty powerful. For example, I don't need to remember exactly the name of the properties on the resource bundles; the ide shows me. I don't think Eclipse did that. Also, their code analysis tool is extremely helpful on warning me of bad practices and new language features - but I can see why some people think it gets on your way.  When I'm forced to do web frontend stuff, I prefer to use VS Code, though.
+can you access the gpu through your wsl2? looking to do what you've done here, but with access to the gpu
+Could you put the link for the prev video in the description? thanks!
+have you tried v2? i have hard time to get the HR from V2
+65 percent 12 minutes too long
+I have a paid version JetBrains but I'm looking to move off it.  The IDE is getting annoying with their push to cloud based and collaborative development.  I also have to deal with License Collision Detected errors when using multiple machines.  I know there are ways to avoid all the issues, but I have to do this every time I setup a new machine or switch environments.  Maybe VSCode is ready for real Java development?
+I love you
+Thank you i really needed that guide.
+Can you please show tutorial how to mine crypto in this Lab?
+Is this good for mining? Have you tried to deploy linux in lab and use cpu?
+I agree with you, I sometimes find testing boring but it definitely helps to catch many bugs before they show up in production.On a very unrelated topic, do you have any tips for someone jumping from Java 8 to Java 11? While there are many changes it kinda feels way too similar so I worry if I'm missing something haha.
+Got here from Reddit, I really like your attitude towards clear explanations in a time efficient manner. Already subscribed for more!
+Thanks very much for the informative video looking forward for more tutorials such this
+can we have window in this vcpu? im not too sure how to use phyton
+Great video, good pace, hope for more 🙂
+U are amazing waiting for this video
+I appreciate this entire series! Thank you 🙏🏾 watched it twice thru! Thanks for the code samples too!
+Appreciate the videos, no one does modern java videos like this.
+So in the end, you didn't create it on Python, but directly into Discord app. I'm searching if there's a way to build it like a class, but it just asks for url.
+I KNOW I know my stuff. Yet I'm unsure and feel like I know nothing. It really fucks my mind. Did not use to feel like this, it only started in my 50s.
+Greaaat
+Thank you, hope this channel grow!
+Great content, very useful, thank you!
+Thank you for this explanation, my vision on this topic now is much more clear.
+Great video on Oura ring, staying tuned for what can be done with the data.
+Can you make a video about cuatom prefix with sqlite3?
+Netbeans IDE crying at background.
+Hi! I do not like Pomodoro. What about Faradays nest for some trivial programming?
+finally somebody tells testing is wasting of time, I agree all my life with testing is bullshit, its not time, money, to write code x times, rewrite every test after every code, disaster, fuck tests forever yeahhhhhhhhhhhh
+Totally condole with your reasoning.
+Thanks! Super informative video! My only quarrel is the mispronunciation of "Linux".
+Very Small fonts
+I have learned many new tips and tricks and nice to hear them from a full-time developer. How to set up and have control over the code at an early stage. And much more.I'm not a coder. I try to learn python.Thanks for an awesome channel!
+Hi, I already have VS Code for the purpose of learning html/css. However, I'm currently learning Java. Do I need to download JDK, or can I simply use VS Code for my Java projects as well? Thanks for the informative video, look forward to your response!
+Sir, ow many programming languages that you know very wellI just need a idea
+You deserve more thanks for your videos
+I'm so happy you want to keep making videos, I have a great time watching them because they just feel so genuine and authentic, which is amazing.Also, I hope you enjoy your break, happy holidays and hope your family is okay!!Edit: just finished watching, it's so sweet that you appreciate all the activity on your channel so much, I'm sure you'll keep getting more and more!!
+bla bla bla but no how to fix it or how to patch,
+Java 8 is installed on my pc and I never installed log4j from their official site so do I have log4j and how can i fini it ?(I don't host anything like servers)
+Video is very good.
+I think some faraday nest, sound insulated would be a good place for smart phone? It is cruel, but I have Nokia E70, if somebody really has an issue to contact me. Faradays nest could have charging inside and a timer when you get your phone back. Maybe a daily log of times without phone.
+i will suggest to use version 2.16.0 for Apache log4j as version 2.15.0 is still vulnerabal
+I have Log4j version 1.2.17, but I don't know how to fix and update to at least to version 2.15. is that any tutorial for the steps? btw thank anyway for your explanations
+So why you dont try to explain who to fix it? I mean...
+Hi is it vulnerability applicable to lower version like log4j 1.2.14
+works in minecraft? can i rick roll?
+Hi we are using spring boot java application , spring boot by default providing the log4j-api 2.12.2 jar and log4j-to slf4j jar files. We are not using only slf4j, and we didn't used these in pom.xml file, but safer we just added log 4j- 2.15 version jar. There will be any problem or Is there any alternate?
+Minecraft saving the world since always.
+Great video
+Is Log4J 1.2.14 and 1.2.17 vulnerable?
+Thanks for the video, unfortuantely the situation is very bad, it is not just websites that need upgrade and edit, but as you said appliances as well, iot devices need to upgrade which is a massive and time consuming task.
+Thank you so much. Learned about this 3 hours ago. our company has 3000+ servers, and log4j is pretty core to how we work. At least our DMZ is tiny, so risk is mostly internal
+How can I delete ElasticSearch?
+So does this affect only server owners? If one doesn't necessarily have Java installed on his computer would he be safe? (And yes I do know people who don't have Java on their systems idk why)
+Does this effect any internal or only external facing applications?
+I have log4j 2.0 beta9. what should I do with it?
+make one video on how to mitigate it like updating java version and then log4j ver to 2.15
+Hi. Thanks for the video. Please check your mic 👍
+You should update the CVE number it is: CVE-2021-44228
+Great Video but can you also explain how  to download the new version of 4j, and get rid of the old versions like you were talking about? Can you also show how to detect if we are running it in any program?
+Where is the video you're explaining how to set up mvn project from this video?
+Yes please do more detailed video highlighting major changes from Java 8 to 11 to 17
+Great stuff! One thing I would have added  that I really like are these AI autocompletion things like Tabnine and Kite. I have been using Tabnine for some time and love it. Keep on rocking!
+I would say only get the licensed products if you are making a lot of money from them and you can expense them, otherwise stay with the free stuff.
+very useful
+Video title: What's the best IDE for Java?13 seconds into video: I'm not going to tell you which one is bestIn all seriousness nice video
+Wow unbelievable I got my debit bills paid true thank so much...
+Thank you!❤️😁
+Loved the rant haha. You've given me a lot to think. I agree with you, I'm currently studying for a technical interview and learning like crazy, it blows my mind every day! Although not my favorite language, I'm really starting to enjoy Java.I have a question, have you ever used a different language that runs on the JVM? Do you prefer regular Java over them or how do you feel about it?
+Awesome content. But I have a question does record generate setters too? Also I read that the class variables are by default final which may suggest that they do not generate setters. Can you please clear this up.
+Please Increase the font size
+Wow. I'm so happy you shared this with us. I absolutely love the tips, so good. Thank you for being so vulnerable with us.I love your videos, the technical ones are still a little out of my reach yet, so I just watch rants mostly, they're so good. You're definitely good enough, your videos are so down to earth and so enjoyable, thank you.So, with that out of the way. I indirectly reached many of the same conclusions, but this is so good. Some things (such as recognizing that if I get triggered by something is because I'm growing) are new for me, I'll definitely repeat that to myself when slowing down and whatnot. The community thing is genius too. I won't give too many personal details as it may come off the wrong way, but I'm in the process of converting to a different faith and it helps a lot to know that there's a group of people there who actually shares the same ideals and goals as you. On a less solemn note, I love some tech communities, such as the Ruby one, and it definitely helps to feel like you belong there as well.I'm still a junior and I have a job interview next week, super nervous about that, but I'll take your advice and see it as a reminder that I'm growing!So, thanks again, and I wish you and your family a wonderful week, stay safe!
+Hello how can we connect headset on online server ?
+This video was really awesome! I really learned a lot from it and I'm looking forward to include these features in my future programs, thanks! :D
+Nice tutorial on jlink. please share repo link of the project so we can try it also.
