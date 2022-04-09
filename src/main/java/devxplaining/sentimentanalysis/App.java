@@ -17,9 +17,9 @@ public class App {
 
     public static void main(String[] args) throws Exception {
         var text = loadResourceFromClasspath();
-        tokenize(text);
+        //tokenize(text);
         //analyze(text);
-        //System.out.println(analyzeAndReturn(text));
+        System.out.println(analyzeAndReturn(text));
     }
 
     /**
@@ -32,6 +32,25 @@ public class App {
         var document = new edu.stanford.nlp.simple.Document(content);
         document.sentences().forEach(s -> System.out.println(s.words()));
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     public static void analyze(String content) {
         var props = new Properties();
@@ -74,8 +93,8 @@ public class App {
         var annotation = pipeline.process(content);
         return annotation.get(CoreAnnotations.SentencesAnnotation.class).stream()
                 .map(App::convertToSentimentRecord)
-                //.filter(App::negativeComments)
-                .filter(App::positiveComments)
+                .filter(App::negativeComments)
+                //.filter(App::positiveComments)
                 .collect(Collectors.toList());
     }
 
